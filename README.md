@@ -48,7 +48,7 @@ The current planned platform is:
 
 ## Project Status
 
-- Draft / planning
+- Draft / planning COMPLETE
 - Designing
 - Coding
 - Submitted for approval
@@ -56,8 +56,7 @@ The current planned platform is:
 - Building
 - Finished
 
-Current Status: Draft / planning 
-
+Current Status: Designing
 ## Notes
 
 This project will be documented step by step under project sattus. The goal is to keep both the design process and the technical process organized from the beginning.
