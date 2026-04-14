@@ -1,39 +1,33 @@
 # Advanced Spoti-Display
 
-A Raspberry Pi-based desk device that displays Spotify session length, the current song name, the artist name, and the album art in a clean product-style interface.
+The Spoti-Display will be a Raspberry Pi-based desk device that displays Spotify session length (session length reffering to how long the device has been active), the current song name, and the album art in a clean interface.
+## Projects Aim
 
-## Project Aim
-
-The aim of this project is to create a polished physical Spotify display that feels like a real consumer product rather than just a rough prototype. It should sit on a desk, connect over Wi-Fi, and show useful live listening information in a visually appealing way.
-
-This project is not only about making something functional. A major goal is to make it look good, feel intentional, and have a strong outer design. I want the final result to feel modern, minimal, and well put together.
+The aim of this project is to create a physical Spotify display that feels like a real product rather than just a data tracker. It will sit on a desk, connect with Wi-Fi, and show live listening information in a visually appealing way.
 
 ## What the Project Does
 
-The device is planned to:
+The device will
 
 - show the current song title
-- show the current artist name
 - show the album art
 - track and display the current listening session length
-- present the information in a clean and organized layout
-- eventually have a polished outer case
+- present the information in an organized layout
+- have a polished outer case
 
-The session length is planned to be tracked locally by the device itself, while the song, artist, and album art will be fetched through Spotify over Wi-Fi.
+The session length is planned to be tracked locally by the device itself, while the song, and album art will be fetched through Spotify over Wi-Fi.
 
 ## Main Idea
 
-This project is meant to be a physical Spotify companion display for a desk or room setup. Instead of checking a phone or computer screen, the user can look at a dedicated device that presents the currently playing music in a more aesthetic and focused way.
+This project is meant to be a physical Spotify companion display for a desk or room setup. Instead of checking a phone or computer screen, the user can look at a dedicated device that presents the current music in a more aesthetic and focused way.
 
 The goal is to combine software, hardware, and product design into one build. I want it to be both useful and visually strong.
 
-## Current Plan
-
-At this stage, the project is still in the planning and design phase.
+## Plan
 
 The current workflow is:
 
-1. define the project aim clearly in the README
+1. define the project aim 
 2. log progress and planning in GitHub and Stasis
 3. figure out the exact parts needed
 4. create a first online design draft
@@ -54,10 +48,16 @@ The current planned platform is:
 
 ## Project Status
 
-Status: Draft / planning phase
+Draft / planning
+Designing
+Coding
+Submitted for approval
+Approved / waiting for parts
+Building
+Finished
 
-The exact item list is still being decided. The first priority is making the concept, aim, and design direction clear before choosing the final parts.
+Current Status: Draft / planning 
 
 ## Notes
 
-This project will be documented step by step. The goal is to keep both the design process and the technical process organized from the beginning.
+This project will be documented step by step under project sattus. The goal is to keep both the design process and the technical process organized from the beginning.
