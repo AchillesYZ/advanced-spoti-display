@@ -48,13 +48,13 @@ The current planned platform is:
 
 ## Project Status
 
-Draft / planning
-Designing
-Coding
-Submitted for approval
-Approved / waiting for parts
-Building
-Finished
+-Draft / planning
+-Designing
+-Coding
+-Submitted for approval
+-Approved / waiting for parts
+-Building
+-Finished
 
 Current Status: Draft / planning 
 
